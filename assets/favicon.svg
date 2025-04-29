@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+  <!-- Background -->
+  <rect width="100" height="100" rx="20" fill="#121212" />
+  
+  <!-- Dumbbell -->
+  <g transform="translate(50, 50) scale(0.65)">
+    <!-- Left Weight -->
+    <rect x="-60" y="-15" width="15" height="30" rx="2" fill="#ff4d00" />
+    
+    <!-- Left Bar -->
+    <rect x="-45" y="-5" width="20" height="10" rx="2" fill="#fff" />
+    
+    <!-- Middle Bar -->
+    <rect x="-25" y="-3" width="50" height="6" rx="2" fill="#fff" />
+    
+    <!-- Right Bar -->
+    <rect x="25" y="-5" width="20" height="10" rx="2" fill="#fff" />
+    
+    <!-- Right Weight -->
+    <rect x="45" y="-15" width="15" height="30" rx="2" fill="#ff4d00" />
+  </g>
+  
+  <!-- Muscular Effect -->
+  <path d="M30,75 Q50,65 70,75" stroke="#ff4d00" stroke-width="3" fill="none" />
+</svg>

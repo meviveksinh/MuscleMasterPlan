@@ -1,0 +1,58 @@
+🎯 Objective:
+Create a fully responsive and interactive Workout Planner Website for bodybuilding beginners and enthusiasts. Users can select a muscle group and view a list of 8 recommended exercises, each with sets and reps. The site also includes a To-Do List feature where users can add or remove personal fitness tasks.
+
+🔷 Website Title:
+“Muscle Master – Your Gym Companion”
+
+🌐 Pages / Sections:
+🔹 1. Landing Page
+Hero section with bold fitness image and quote: “Train Hard. Stay Strong. Grow Every Day.”
+
+CTA: “Choose Your Muscle Group”
+
+Smooth scroll to exercise selector
+
+🔹 2. Muscle Group Selector
+Dropdown or buttons for:
+
+Chest
+
+Back
+
+Biceps
+
+Triceps
+
+Shoulders
+
+Legs
+
+Abs
+
+Full Body
+
+➡ On selection, JS displays a dynamic list of 8 exercises with:
+
+✅ Name
+
+✅ Sets × Reps (e.g., 4 sets of 12 reps)
+
+✅ Optional image/icon or short description
+
+All exercises are hardcoded arrays in JavaScript, grouped by muscle.
+
+🔹 3. Exercise Plan Display
+Render selected workout dynamically in a stylish card or table layout
+
+Allow scroll or collapsible UI (optional)
+
+"Start Workout" button (can activate animations or a timer)
+
+🔹 4. Workout To-Do List (JS Based)
+Simple task tracker:
+
+Input field + “Add Task” button
+
+Display user’s workout tasks (e.g., "Drink Protein Shake", "Stretch 10 min")
+
+Buttons for ✅ "Mark as Done" and ❌ "Delete 
